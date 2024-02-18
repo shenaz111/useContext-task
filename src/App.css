@@ -1,0 +1,18 @@
+.backgroundClr{
+  background-color: #efedf2;
+}
+.SelectTag{
+  background-color: #efedf2;
+  border : 1px solid rgb(14, 14, 14);
+  width: 35px;
+  border-radius: 5px;
+  
+}
+option {
+  overflow-y: scroll;
+}
+.RemoveButton{
+  background-color: #efedf2;
+  color: red;
+  border: none;
+}
